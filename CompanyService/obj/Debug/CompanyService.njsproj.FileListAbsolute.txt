@@ -1,0 +1,3 @@
+C:\Users\QWERTY\Source\Repo\kardelw1409\SOA\SOAProjects\CompanyService\obj\Debug\CompanyService.njsprojAssemblyReference.cache
+C:\Users\QWERTY\Source\Repo\kardelw1409\SOA\SOAProjects\CompanyService\obj\Debug\CompanyService.njsproj.CoreCompileInputs.cache
+C:\Users\QWERTY\Source\Repo\kardelw1409\SOA\SOAProjects\CompanyService\bin\Microsoft.NodejsTools.WebRole.dll
